@@ -60,10 +60,6 @@ public class PolimorfismoPaper {
         System.out.println("Con el control de camara definimos el angulo de direccion que tiene la camara: LATERAL \n");
         deteccion2.anguloDireccion();
         
-        System.out.println("Con el control de camara definimos el angulo de direccion que tiene la camara: TRASERA \n");
-        deteccion3.anguloDireccion();
         
-        System.out.println("Con el control de camara definimos el angulo de direccion que tiene la camara: LIDAR \n");
-        deteccion4.anguloDireccion();
     } 
 }
